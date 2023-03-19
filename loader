@@ -9,7 +9,7 @@ end
 
 local WindowFocusedFunction = function()
 	RunService:Set3dRenderingEnabled(true)
-	setfpscap(360)
+	setfpscap(370)
 	return
 end
 
